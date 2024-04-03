@@ -1,0 +1,9 @@
+[
+  {
+    "id" : "medigree.fhir.globalspecification",
+    "type" : "ImplementationGuide",
+    "url" : "http://medigree.github.io/globalspecification/ImplementationGuide/medigree.fhir.globalspecification",
+    "version" : "0.1.0",
+    "name" : "SMART"
+  }
+]

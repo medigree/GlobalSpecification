@@ -1,0 +1,28 @@
+SMART : Validation Results
+=========================================
+
+err = 2, warn = 5, info = 0
+IG Publisher Version: 1.6.3
+Generated Wed Apr 03 19:11:31 UTC 2024. FHIR version 4.3.0 for medigree.fhir.globalspecification#0.1.0 (canonical = http://medigree.github.io/globalspecification)
+ Build Errors : 10 / 4 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-medigree.fhir.globalspecification : 2 / 1 / 1
+</table>
+== n/a ==
+ERROR: /github/workspace/output/artifacts.html#/html/body/div/div/div/a/img at Line 68, column 107: The image source 'assets/images/medigree.github.io.png' cannot be resolved
+ERROR: /github/workspace/output/changes.html#/html/body/div/div/div/a/img at Line 68, column 107: The image source 'assets/images/medigree.github.io.png' cannot be resolved
+ERROR: /github/workspace/output/dependencies.html#/html/body/div/div/div/a/img at Line 68, column 107: The image source 'assets/images/medigree.github.io.png' cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/a/img at Line 68, column 107: The image source 'assets/images/medigree.github.io.png' cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/p/a at Line 218, column 88: The link 'references.html' for "References" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 225, column 8: The link 'business-requirements.html' for "Business Requirements" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 226, column 8: The link 'data-models-and-exchange.html' for "Data Models and Exchange" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/a at Line 227, column 8: The link 'deployment.html' for "Deployment Guidance" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ul/li/p/a at Line 253, column 82: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/toc.html#/html/body/div/div/div/a/img at Line 68, column 107: The image source 'assets/images/medigree.github.io.png' cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-medigree.fhir.globalspecification.json ==
+ERROR: ImplementationGuide/medigree.fhir.globalspecification: ImplementationGuide.meta.profile[0]: Canonical URLs must be absolute URLs if they are not fragment references (SMARTImplementationGuide)
+ERROR: ImplementationGuide/medigree.fhir.globalspecification: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide|4.3.0)
+WARNING: ImplementationGuide/medigree.fhir.globalspecification: ImplementationGuide.meta.profile[0]: Profile reference 'SMARTImplementationGuide' has not been checked because it could not be found, and the validator is set to not fetch unknown profiles

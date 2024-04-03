@@ -1,0 +1,23 @@
+SMART
+=========================================
+
+Generic: line 0, col 0, Error - The image source 'assets/images/medigree.github.io.png' cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The image source 'assets/images/medigree.github.io.png' cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The image source 'assets/images/medigree.github.io.png' cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The image source 'assets/images/medigree.github.io.png' cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'references.html' for "References" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'business-requirements.html' for "Business Requirements" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'data-models-and-exchange.html' for "Data Models and Exchange" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'deployment.html' for "Deployment Guidance" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The link 'downloads.html' for "Downloads" cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Error - The image source 'assets/images/medigree.github.io.png' cannot be resolved (NOTFOUND)
+Generic: line 0, col 0, Warning - The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide (NOTFOUND)
+Generic: line 0, col 0, Warning - The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide (NOTFOUND)
+/github/workspace/fsh-generated/resources/ImplementationGuide-medigree.fhir.globalspecification.json: line 1, col 125, Error - Canonical URLs must be absolute URLs if they are not fragment references (SMARTImplementationGuide) (INVALID)
+/github/workspace/fsh-generated/resources/ImplementationGuide-medigree.fhir.globalspecification.json: line 1, col 11671, Error - ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide|4.3.0) (STRUCTURE)
+/github/workspace/fsh-generated/resources/ImplementationGuide-medigree.fhir.globalspecification.json: line 1, col 11672, Warning - Profile reference 'SMARTImplementationGuide' has not been checked because it could not be found, and the validator is set to not fetch unknown profiles (STRUCTURE)
+
+err = 2, warn = 5, info = 0
+IG Publisher Version: 1.6.3
