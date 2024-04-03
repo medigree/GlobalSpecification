@@ -1,4 +1,4 @@
-id: globalspecification
+id: medigree.fhir.globalspecification
 canonical: http://medigree.github.io/globalspecification
 name: SMART
 title: SMART Empty IG
@@ -29,3 +29,7 @@ pages:
       title: Dependencies
   artifacts.html: 
     title: Artifact Index
+
+menu:
+  Home: 
+    Summary: index.html
